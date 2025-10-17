@@ -1,10 +1,10 @@
-# Android Project 5 - *Name of App Here*
+# Android Project 5 - *Calories Tracker*
 
 Submitted by: **Iyinoluwa Ayodele**
 
 **Calories Tracker** is a health metrics app that allows users to track their calories and their water intake. 
 
-Time spent: **X** hours spent in total
+Time spent: **19** hours spent in total
 
 ## Required Features
 
